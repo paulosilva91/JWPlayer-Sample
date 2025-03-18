@@ -2,12 +2,8 @@
 
 This application contains an example implementation of creating Jetpack compose using the JW Player SDK for Android.
 
-## Usage instructions
+#### Usage instructions:
 
-- Open the `MainActivity` and replace `YOUR_LICENSE_KEY` with your license key
+-	Open the `MainActivity` and replace `YOUR_LICENSE_KEY` with your license key
 
 The demo application should now build and run. For more information on how to use our SDK refer to our [developer guide](https://developer.jwplayer.com/jwplayer/docs/android-get-started)
-
-## Documentation
-
-For more detailed information, refer to the [JWPlayer Official Documentation](implementation/jwp-official-documentation.md).
